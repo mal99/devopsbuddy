@@ -1,2 +1,2 @@
-# devosbuddy
+# devopsbuddy
 Startup ready web skeleton
