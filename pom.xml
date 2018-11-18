@@ -37,7 +37,6 @@
 		</dependency>
 
 		<!-- webjars for jquery and bootstrap -->
-		
 		<dependency>
 			<groupId>org.webjars</groupId>
 			<artifactId>bootstrap</artifactId>
@@ -49,7 +48,15 @@
             <artifactId>jquery</artifactId>
             <version>2.1.4</version>
          </dependency>
+         
+        <!-- Logging Dependencies -->
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+         </dependency> 
 		
+		
+		<!--  Testing Dependencies -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
